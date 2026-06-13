@@ -1,6 +1,7 @@
 # joshikata-portafolio
-https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F7FF,100:8A2BE2&text=FERNANDA.EXE&fontColor=ffffff&fontSize=60&animation=fadeIn
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Warehouse+%40+Minera+Spence;SAP+%7C+MongoDB+%7C+IoT;Future+SOC+Analyst" />
+</p>
 Showcase of my software development, database and technology projects.
 
 # Hola 👋 Soy Fernanda
