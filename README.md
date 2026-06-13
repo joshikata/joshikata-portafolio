@@ -12,7 +12,7 @@ Showcase of my software development, database and technology projects.
 
 🚀 Apasionada por la tecnología, la automatización de procesos y el desarrollo de soluciones digitales para la industria.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56f8c8d-211f-4f36-9c8d-9b6d8f0b4f0e.gif" width="100%">
 
 ## 🌱 Actualmente aprendiendo
 
@@ -23,7 +23,7 @@ Showcase of my software development, database and technology projects.
 - Ciberseguridad
 - IoT con ESP8266
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56f8c8d-211f-4f36-9c8d-9b6d8f0b4f0e.gif" width="100%">
 
 ## 🛠️ Tecnologías
 
@@ -34,7 +34,7 @@ Showcase of my software development, database and technology projects.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56f8c8d-211f-4f36-9c8d-9b6d8f0b4f0e.gif" width="100%">
 
 ## 📂 Proyectos Destacados
 
@@ -44,7 +44,7 @@ Landing page responsive desarrollada con HTML, CSS y JavaScript.
 ### 🍃 MongoDB Practice
 Colección de ejercicios y consultas para reforzar conceptos de bases de datos NoSQL.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56f8c8d-211f-4f36-9c8d-9b6d8f0b4f0e.gif" width="100%">
 
 ## 🎯 Objetivos 2026
 
@@ -53,7 +53,7 @@ Colección de ejercicios y consultas para reforzar conceptos de bases de datos N
 - Aprender ciberseguridad orientada a SOC.
 - Crear soluciones tecnológicas aplicadas a la industria minera.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56f8c8d-211f-4f36-9c8d-9b6d8f0b4f0e.gif" width="100%">
 
 ## 📫 Contacto
 
