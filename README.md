@@ -1,5 +1,8 @@
 # joshikata-portafolio
 <p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l2c2d4Y3l3YmN5cWpwNXNnMHF5bGF1cDNzZ3d1OWJmaWVwY3VmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="200">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Warehouse+%40+Minera+Spence;SAP+%7C+MongoDB+%7C+IoT;Future+SOC+Analyst" />
 </p>
 Showcase of my software development, database and technology projects.
